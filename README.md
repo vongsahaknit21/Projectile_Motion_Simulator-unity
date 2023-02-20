@@ -29,9 +29,3 @@ There are three main components in order for this solution to be effective:
 ## Other project info
 * Unity version used: 2018.3.3f1
 
-## Resources
-* [Wikipedia][1] page of the physics/math behind the calculations.
-* A similar implementation for a 2D trajectory by [Board To Bits Games][2] youtube channel.
-
-[1]: https://en.wikipedia.org/wiki/Projectile_motion
-[2]: https://www.youtube.com/watch?v=iLlWirdxass
